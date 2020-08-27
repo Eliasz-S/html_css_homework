@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4c142f-7e49-48c9-b1e9-2c06543a4fa1" name="Default Changelist" comment="" />
+    <list default="true" id="f37b7833-92ca-4468-b5b1-0161448f7a97" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +10,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="SCSS File" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1gH5ZtPDnQnImTQLaJhjL7CsPNv" />
+  <component name="ProjectId" id="1gVOHGvcyn9wUJjFc27VjNwRjBQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,25 +18,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Ruby27-x64/bin/sass.bat" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="last_opened_file_path" value="C:/Ruby27-x64/bin/scss.bat" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a4c142f-7e49-48c9-b1e9-2c06543a4fa1" name="Default Changelist" comment="" />
-      <created>1597758736695</created>
+      <changelist id="f37b7833-92ca-4468-b5b1-0161448f7a97" name="Default Changelist" comment="" />
+      <created>1598196203429</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597758736695</updated>
-      <workItem from="1597758738107" duration="9092000" />
-      <workItem from="1597786978671" duration="10436000" />
-      <workItem from="1597828837084" duration="605000" />
-      <workItem from="1597845394623" duration="15129000" />
-      <workItem from="1597866409888" duration="502000" />
-      <workItem from="1597866930176" duration="14661000" />
-      <workItem from="1597913068763" duration="2822000" />
+      <updated>1598196203429</updated>
+      <workItem from="1598196204533" duration="21003000" />
+      <workItem from="1598226910867" duration="1024000" />
+      <workItem from="1598264629502" duration="131000" />
     </task>
     <servers />
   </component>
@@ -51,25 +39,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="923" y="346" key="#File_Watchers" timestamp="1597866430666">
+    <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1598196277181">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="615" y="226" key="#File_Watchers/0.0.1280.680@0.0.1280.680" timestamp="1597845794814" />
-    <state x="923" y="346" key="#File_Watchers/0.0.1920.1040@0.0.1920.1040" timestamp="1597866430666" />
-    <state x="464" y="182" key="EditFileWatcherDialog" timestamp="1597866458512">
+    <state x="628" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598196277181" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598196266673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="309" y="119" key="EditFileWatcherDialog/0.0.1280.680@0.0.1280.680" timestamp="1597845863963" />
-    <state x="464" y="182" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597866458512" />
-    <state x="630" y="147" key="FileChooserDialogImpl" timestamp="1597866455354">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598196266673" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1598196278722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597845862335" />
-    <state x="630" y="147" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597866455354" />
-    <state x="213" y="0" key="SettingsEditor" timestamp="1597866464513">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597845872502" />
-    <state x="213" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597866464513" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598196278722" />
   </component>
 </project>
