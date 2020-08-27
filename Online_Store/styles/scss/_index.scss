@@ -239,7 +239,7 @@
 .featured-items__item-top > img {
   width: inherit;
   height: inherit;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center center;
 }
 
