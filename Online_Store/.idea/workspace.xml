@@ -30,6 +30,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +51,11 @@
       <workItem from="1598474928865" duration="6823000" />
       <workItem from="1598520051557" duration="838000" />
       <workItem from="1598520919514" duration="624000" />
+      <workItem from="1598522192538" duration="607000" />
+      <workItem from="1598525007325" duration="4000" />
+      <workItem from="1598538602536" duration="872000" />
+      <workItem from="1598541000530" duration="939000" />
+      <workItem from="1598543694441" duration="726000" />
     </task>
     <servers />
   </component>
