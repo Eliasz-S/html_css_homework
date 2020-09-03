@@ -10,16 +10,27 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1gVOHGvcyn9wUJjFc27VjNwRjBQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Ruby27-x64/bin/scss.bat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,6 +43,26 @@
       <workItem from="1598196204533" duration="21003000" />
       <workItem from="1598226910867" duration="1024000" />
       <workItem from="1598264629502" duration="131000" />
+      <workItem from="1598359498271" duration="87000" />
+      <workItem from="1598366376024" duration="8820000" />
+      <workItem from="1598390594049" duration="9396000" />
+      <workItem from="1598438376413" duration="2709000" />
+      <workItem from="1598451323769" duration="6195000" />
+      <workItem from="1598474928865" duration="6823000" />
+      <workItem from="1598520051557" duration="838000" />
+      <workItem from="1598520919514" duration="624000" />
+      <workItem from="1598522192538" duration="607000" />
+      <workItem from="1598525007325" duration="4000" />
+      <workItem from="1598538602536" duration="872000" />
+      <workItem from="1598541000530" duration="939000" />
+      <workItem from="1598543694441" duration="726000" />
+      <workItem from="1598970140612" duration="12010000" />
+      <workItem from="1598989973240" duration="7471000" />
+      <workItem from="1599001385481" duration="4826000" />
+      <workItem from="1599042540849" duration="1382000" />
+      <workItem from="1599054943958" duration="1276000" />
+      <workItem from="1599075241247" duration="6101000" />
+      <workItem from="1599133697435" duration="1090000" />
     </task>
     <servers />
   </component>
@@ -39,17 +70,19 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1598196277181">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="419" y="194" key="EditFileWatcherDialog" timestamp="1598971147460">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="419" y="194" key="EditFileWatcherDialog/0.0.1280.680@0.0.1280.680" timestamp="1598971147460" />
     <state x="628" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598196277181" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598196266673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598196266673" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598196278722">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1598971148598">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598971148598" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598196278722" />
   </component>
 </project>
