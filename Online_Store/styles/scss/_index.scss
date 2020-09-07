@@ -218,7 +218,6 @@
   font-weight: 700;
   letter-spacing: 0.2px;
   border: 1px solid #ffffff;
-
 }
 
 .featured-items__item:hover {
@@ -239,7 +238,7 @@
 .featured-items__item-top > img {
   width: inherit;
   height: inherit;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center center;
 }
 
@@ -285,6 +284,10 @@
   justify-content: space-evenly;
   align-items: baseline;
   letter-spacing: 0.4px;
+  transition-duration: 0.5s;
+  &:hover {
+    opacity: 80%;
+  }
 }
 
 .special-offer {
