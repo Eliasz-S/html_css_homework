@@ -198,6 +198,10 @@
     font-weight: 400;
     letter-spacing: 0.4px;
     line-height: 50px;
+    transition-duration: 0.5s;
+    &:hover {
+      color: $mainColor;
+    }
   }
 }
 
