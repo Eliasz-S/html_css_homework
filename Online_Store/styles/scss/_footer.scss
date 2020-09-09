@@ -147,7 +147,7 @@
     cursor: pointer;
     transition-duration: 0.5s;
     &:hover {
-      opacity: 80%;
+      opacity: .80;
     }
   }
 }
@@ -155,6 +155,7 @@
 .various-info {
   height: 458px;
   display: flex;
+  justify-content: space-between;
 }
 
 .brand__about {
@@ -174,9 +175,9 @@
 
 .brand__various-links {
   height: inherit;
-  width: substractDiv(1140px, 427px);
+  width: 670px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
 }
 

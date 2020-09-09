@@ -127,11 +127,12 @@
             padding-left: 25px;
             &::before {
               content: "";
-              display: block;
+              display: inline-block;
               width: 14px;
               height: 14px;
               border: 1px solid #dfdfdf;
               position: absolute;
+              left: 0;
             }
             &::after {
               content: "";
@@ -153,7 +154,7 @@
       height: inherit;
       div {
         width: inherit;
-        height: initial;
+        height: 17px;
         flex-direction: row;
       }
     }
@@ -312,6 +313,7 @@
       line-height: 23.95px;
       margin: 0;
       text-align: center;
+      width: inherit;
     }
   }
 }
