@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Верстка сайта - mobile first" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -63,6 +63,15 @@
       <workItem from="1599054943958" duration="1276000" />
       <workItem from="1599075241247" duration="6101000" />
       <workItem from="1599133697435" duration="1090000" />
+      <workItem from="1599228541925" duration="6033000" />
+      <workItem from="1599246653975" duration="11074000" />
+      <workItem from="1599298501196" duration="20484000" />
+      <workItem from="1599426917231" duration="598000" />
+      <workItem from="1599475356414" duration="3541000" />
+      <workItem from="1599517101747" duration="6696000" />
+      <workItem from="1599556195452" duration="6109000" />
+      <workItem from="1599574680182" duration="3954000" />
+      <workItem from="1599596861943" duration="2454000" />
     </task>
     <servers />
   </component>
@@ -75,10 +84,10 @@
     </state>
     <state x="419" y="194" key="EditFileWatcherDialog/0.0.1280.680@0.0.1280.680" timestamp="1598971147460" />
     <state x="628" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598196277181" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598196266673">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599603425618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598196266673" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599603425618" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1598971148598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

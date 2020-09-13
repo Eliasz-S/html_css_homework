@@ -40,11 +40,7 @@ body {
 
 .header__logo span {
   color: $mainColor;
-  font-weight: 900;
-  display: flex;
-  align-items: center;
-  line-height: 50px;
-  font-size: 27px;
+  font-weight: 700;
 }
 
 .header__search {
@@ -60,11 +56,13 @@ body {
   color: #222222;
   font-size: 14px;
   height: inherit;
-  width: 90px;
+  width: 68px;
+  padding: 0 11px;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   background-color: #efefef;
+  cursor: pointer;
 }
 
 .header__search input {
@@ -100,18 +98,19 @@ body {
 }
 
 .header__account-bar {
-  width: 130px;
+  width: 100px;
+  padding: 0 15px;
   color: #ffffff;
   font-size: 15px;
   line-height: 38px;
   background-color: $mainColor;
   text-decoration: none;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   transition-duration: 0.5s;
   &:hover {
-    opacity: 80%;
+    opacity: .80;
   }
 }
 

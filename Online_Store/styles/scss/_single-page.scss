@@ -77,6 +77,7 @@
       line-height: 24px;
       letter-spacing: -0.4px;
       margin: 0;
+      width: inherit;
     }
     div {
       &:first-of-type {
@@ -171,7 +172,7 @@
             height: 35px;
             border: none;
             justify-content: center;
-            align-content: center;
+            align-items: center;
             color: #bcbcbc;
           }
           input {
@@ -254,7 +255,7 @@
       text-decoration: none;
       transition-duration: 0.5s;
       &:hover {
-        opacity: 75%;
+        opacity: .75;
       }
       img {
         margin-right: 15px;
