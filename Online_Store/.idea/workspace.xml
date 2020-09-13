@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Верстка сайта - mobile first" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -72,6 +72,11 @@
       <workItem from="1599556195452" duration="6109000" />
       <workItem from="1599574680182" duration="3954000" />
       <workItem from="1599596861943" duration="2454000" />
+      <workItem from="1599767495371" duration="6659000" />
+      <workItem from="1599815465698" duration="750000" />
+      <workItem from="1599855200428" duration="12657000" />
+      <workItem from="1599919546937" duration="15840000" />
+      <workItem from="1599987469553" duration="4534000" />
     </task>
     <servers />
   </component>
