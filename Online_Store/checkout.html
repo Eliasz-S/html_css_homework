@@ -7,11 +7,32 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
 </head>
 <body>
-    <div class="header container">
+    <header class="header container">
         <div class="header__left">
             <a href="index.html" class="header__logo"><img src="img/logo.png" alt="logo"> Bran<span>d</span></a>
             <form action="#" class="header__search" method="get">
-                <div class="browse">Browse <i class="fas fa-caret-down"></i></div>
+                <input type="checkbox" id="browse-checkbox">
+                <label for="browse-checkbox" class="browse">Browse <i class="fas fa-caret-down"></i></label>
+                <label for="browse-checkbox" class="browse-active">Browse <i class="fas fa-caret-up"></i></label>
+                <div class="drop-down">
+                    <div>Women</div>
+                    <a href="#">Dresses</a>
+                    <a href="#">Tops</a>
+                    <a href="#">Sweaters/Knits</a>
+                    <a href="#">Jackets/Coats</a>
+                    <a href="#">Blazers</a>
+                    <a href="#">Denim</a>
+                    <a href="#">Leggings/Pants</a>
+                    <a href="#">Skirts/Shorts</a>
+                    <a href="#">Accessories</a>
+                    <div>Men</div>
+                    <a href="#">Tees/Tank tops</a>
+                    <a href="#">Shirts/Polos</a>
+                    <a href="#">Sweaters</a>
+                    <a href="#">Sweatshirts/Hoodies</a>
+                    <a href="#">Blazers</a>
+                    <a href="#">Jackets/vests</a>
+                </div>
                 <input name="search" type="text" placeholder="Search for Item...">
                 <button><i class="fas fa-search"></i></button>
             </form>
@@ -20,17 +41,248 @@
             <a class="header__cart" href="shopping-cart.html"><img src="img/cart.png" alt="cart"></a>
             <a class="header__account-bar" href="#">My Account <i class="fas fa-caret-down"></i></a>
         </div>
-    </div>
+    </header>
     <div class="header__line"></div>
-    <div class="topNav">
+    <nav class="topNav">
         <a href="index.html">Home</a>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
         <a href="product.html">Man</a>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
         <a href="single-page.html">Women</a>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
         <a href="#">Kids</a>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
         <a href="#">Accoseriese</a>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
         <a href="#">Featured</a>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
         <a href="#">Hot Deals</a>
-    </div>
+        <!--<div class="drop-menu">
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <a href="#">Blazers</a>
+                <a href="#">Denim</a>
+                <a href="#">Leggings/Pants</a>
+                <a href="#">Skirts/Shorts</a>
+                <a href="#">Accessories</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+            </div>
+            <div class="drop-menu__block">
+                <h3>Women</h3>
+                <a href="#">Dresses</a>
+                <a href="#">Tops</a>
+                <a href="#">Sweaters/Knits</a>
+                <a href="#">Jackets/Coats</a>
+                <img src="img/drop-menu-pic.jpg" alt="drop-menu-pic">
+            </div>
+        </div>-->
+    </nav>
     <div class="new-arrivals-main">
         <div class="new-arrivals container">
             <h2>New Arrivals</h2>

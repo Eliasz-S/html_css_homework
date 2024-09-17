@@ -278,6 +278,16 @@
         }
       }
     }
+
+    @keyframes move {
+      from {
+      left: 0;
+      }
+      to {
+      left: 100%;
+      }
+    }
+
     &:last-of-type {
       border-top: 0.5px solid #e2e2e2;
       display: flex;
@@ -295,9 +305,26 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        transition-duration: 0.5s;
+        position: relative;
+        transition: all .2s cubic-bezier(0.2, 0.22, 0.25, 1);
+        &::before {
+          transform: skew(-10deg,0deg);
+          width: 30px;
+          height: 100%;
+          content: "";
+          position: absolute;
+          opacity: .3;
+          top: 0;
+          left: 0;
+          background: linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,0.03) 1%,rgba(255,255,255,0.6) 30%,rgba(255,255,255,0.85) 50%,rgba(255,255,255,0.85) 70%,rgba(255,255,255,0.85) 71%,rgba(255,255,255,0) 100%);
+          display: none;
+          animation: move 2s infinite;
+        }
         &:hover {
-          opacity: .80;
+          opacity: .75;
+          &::before {
+            display: block;
+          }
         }
       }
     }
